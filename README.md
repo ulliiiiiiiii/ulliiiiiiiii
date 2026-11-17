@@ -1,7 +1,8 @@
-Linux, homelab and self-hosting. I build tools for coding agents and LLMs, and small utilities
-for the machines I run at home. Most projects here come with tests and CI.
+Tools for coding agents and LLMs, and small utilities for the machines I run at home. Most come
+with tests and CI.
 
-More about me at [ullrich-heinl.com](https://ullrich-heinl.com).
+Available for fixed-price projects, remote, in German, English or Russian. Details at
+[ullrich-heinl.com](https://ullrich-heinl.com), or write to contact@ullrich-heinl.com.
 
 ### Coding agents and LLMs
 
