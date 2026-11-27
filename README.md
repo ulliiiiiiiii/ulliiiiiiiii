@@ -13,6 +13,7 @@ Available for fixed-price projects, remote, in German, English or Russian. Detai
 
 ### Homelab and Linux
 
+- [cdp-remote-screen](https://github.com/ulliiiiiiiii/cdp-remote-screen): use a browser on another machine from your phone, live over the Chrome DevTools Protocol
 - [homelab-toolkit](https://github.com/ulliiiiiiiii/homelab-toolkit): SSH hardening with automatic rollback, IP failover and clipboard sync for two machines
 - [homelab-watchdogs](https://github.com/ulliiiiiiiii/homelab-watchdogs): watchdogs for temperature, power cuts, login attacks and a DNS server that stops answering
 - [fritzbox-port-watch](https://github.com/ulliiiiiiiii/fritzbox-port-watch): report port forwardings that devices open on a FRITZ!Box through UPnP
