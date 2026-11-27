@@ -18,6 +18,9 @@ Available for fixed-price projects, remote, in German, English or Russian. Detai
 - [fritzbox-port-watch](https://github.com/ulliiiiiiiii/fritzbox-port-watch): report port forwardings that devices open on a FRITZ!Box through UPnP
 - [gtt-watch](https://github.com/ulliiiiiiiii/gtt-watch): watch the memory gnome-shell takes from system RAM on AMD APUs
 - [ray-cluster-demos](https://github.com/ulliiiiiiiii/ray-cluster-demos): a virus spreading through a city of a million people and a Mandelbrot zoom, computed on a Ray cluster
+- [sqlite-backup](https://github.com/ulliiiiiiiii/sqlite-backup): back up a SQLite database while the app keeps running, checked and rotated
+- [git-rewrite-references](https://github.com/ulliiiiiiiii/git-rewrite-references): update commit references in docs and comments after a history rewrite
+- [retroarch-playlists](https://github.com/ulliiiiiiiii/retroarch-playlists): RetroArch playlists for PlayStation and Nintendo DS, with .m3u for multi-disc games
 
 ### Documents and spreadsheets
 
@@ -25,8 +28,14 @@ Available for fixed-price projects, remote, in German, English or Russian. Detai
 - [docx-inplace-translate](https://github.com/ulliiiiiiiii/docx-inplace-translate): translate Word files without touching the layout
 - [docx-cv-builder](https://github.com/ulliiiiiiiii/docx-cv-builder): write native Word files with the Python standard library only
 - [sheet-normalizer](https://github.com/ulliiiiiiiii/sheet-normalizer): clean and merge spreadsheets with German and English number and date formats
+- [printable-pdf-planner](https://github.com/ulliiiiiiiii/printable-pdf-planner): a 30-page printable planner as PDF, colored to match your own cover artwork
 
 ### Cloud and Windows
 
 - [cdk-secure-baseline](https://github.com/ulliiiiiiiii/cdk-secure-baseline): secure-by-default AWS CDK building blocks, checked by cdk-nag
 - [mausi](https://github.com/ulliiiiiiiii/mausi): cursor packs, pointer speed and a touchpad switch for Windows 10 and 11 (German interface)
+
+### Websites and mail
+
+- [sitemap-redirects](https://github.com/ulliiiiiiiii/sitemap-redirects): 301 redirects for a website move, from the old sitemap to the new site
+- [dmarc-digest](https://github.com/ulliiiiiiiii/dmarc-digest): one table from a folder of DMARC reports: which senders pass and which fail
