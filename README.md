@@ -10,6 +10,7 @@ Available for fixed-price projects, remote, in German, English or Russian. Detai
 - [ai-sandbox-guard](https://github.com/ulliiiiiiiii/ai-sandbox-guard): a deterministic tool-call guard that keeps coding agents off the open internet
 - [controller-worker](https://github.com/ulliiiiiiiii/controller-worker): delegate work from one coding agent to another over SSH
 - [safe-page-fetch](https://github.com/ulliiiiiiiii/safe-page-fetch): fetch web pages for LLM pipelines without SSRF
+- [agent-task-queue](https://github.com/ulliiiiiiiii/agent-task-queue): a task queue for several coding agents in tmux, with usage limits and nudges
 
 ### Homelab and Linux
 
