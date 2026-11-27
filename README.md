@@ -19,6 +19,7 @@ Available for fixed-price projects, remote, in German, English or Russian. Detai
 - [fritzbox-port-watch](https://github.com/ulliiiiiiiii/fritzbox-port-watch): report port forwardings that devices open on a FRITZ!Box through UPnP
 - [gtt-watch](https://github.com/ulliiiiiiiii/gtt-watch): watch the memory gnome-shell takes from system RAM on AMD APUs
 - [ray-cluster-demos](https://github.com/ulliiiiiiiii/ray-cluster-demos): a virus spreading through a city of a million people and a Mandelbrot zoom, computed on a Ray cluster
+- [lancedb-compactor](https://github.com/ulliiiiiiiii/lancedb-compactor): keep LanceDB tables small, compacting only when there is memory for it
 - [sqlite-backup](https://github.com/ulliiiiiiiii/sqlite-backup): back up a SQLite database while the app keeps running, checked and rotated
 - [git-rewrite-references](https://github.com/ulliiiiiiiii/git-rewrite-references): update commit references in docs and comments after a history rewrite
 - [retroarch-playlists](https://github.com/ulliiiiiiiii/retroarch-playlists): RetroArch playlists for PlayStation and Nintendo DS, with .m3u for multi-disc games
