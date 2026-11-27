@@ -32,6 +32,10 @@ Available for fixed-price projects, remote, in German, English or Russian. Detai
 - [sheet-normalizer](https://github.com/ulliiiiiiiii/sheet-normalizer): clean and merge spreadsheets with German and English number and date formats
 - [printable-pdf-planner](https://github.com/ulliiiiiiiii/printable-pdf-planner): a 30-page printable planner as PDF, colored to match your own cover artwork
 
+### Images
+
+- [image-near-duplicates](https://github.com/ulliiiiiiiii/image-near-duplicates): find copies of images after resizing, recoloring, mirroring, framing or compression
+
 ### Cloud and Windows
 
 - [cdk-secure-baseline](https://github.com/ulliiiiiiiii/cdk-secure-baseline): secure-by-default AWS CDK building blocks, checked by cdk-nag
