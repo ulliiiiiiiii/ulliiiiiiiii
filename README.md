@@ -42,5 +42,6 @@ Available for fixed-price projects, remote, in German, English or Russian. Detai
 - [cf-email-inbox](https://github.com/ulliiiiiiiii/cf-email-inbox): your own mailbox on a Cloudflare domain, kept in a local Maildir, with a web inbox for phone and desktop
 - [chunked-video-upload](https://github.com/ulliiiiiiiii/chunked-video-upload): large video uploads in pieces, resumable, checked with SHA-256 and ffprobe
 - [cf-pages-linkinbio](https://github.com/ulliiiiiiiii/cf-pages-linkinbio): link-in-bio pages on Cloudflare Pages and KV, one project for any number of pages
+- [bilingual-static-site](https://github.com/ulliiiiiiiii/bilingual-static-site): static site generator for two-language websites, with hreflang pairs and a checked build
 - [sitemap-redirects](https://github.com/ulliiiiiiiii/sitemap-redirects): 301 redirects for a website move, from the old sitemap to the new site
 - [dmarc-digest](https://github.com/ulliiiiiiiii/dmarc-digest): one table from a folder of DMARC reports: which senders pass and which fail
