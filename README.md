@@ -37,5 +37,6 @@ Available for fixed-price projects, remote, in German, English or Russian. Detai
 
 ### Websites and mail
 
+- [cf-email-inbox](https://github.com/ulliiiiiiiii/cf-email-inbox): your own mailbox on a Cloudflare domain, kept in a local Maildir, with a web inbox for phone and desktop
 - [sitemap-redirects](https://github.com/ulliiiiiiiii/sitemap-redirects): 301 redirects for a website move, from the old sitemap to the new site
 - [dmarc-digest](https://github.com/ulliiiiiiiii/dmarc-digest): one table from a folder of DMARC reports: which senders pass and which fail
